@@ -19,7 +19,7 @@ const Portfolio = () => {
             <span>Portofoliu</span>
 
             {/* slider */}
-            <Swiper spaceBetween={80} slidesPerView={3} grabCursor={true} className='portfolio-slider'>
+            <Swiper spaceBetween={80} slidesPerView={1.3} grabCursor={true} className='portfolio-slider'>
                 <SwiperSlide className='slider-portofoliu'>
                     <a href="https://dragos1331.github.io/faceify/"><img src={Faceify} alt="faceify website" /></a>
                 </SwiperSlide>
