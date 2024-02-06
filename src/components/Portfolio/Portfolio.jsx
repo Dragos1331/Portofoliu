@@ -3,7 +3,7 @@ import './Portfolio.css'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import Faceify from '../../img/faceify.png';
 import Zest from '../../img/zest.png';
-import HOC from '../../img/hoc.png';
+import faceapp from '../../img/faceapp.png';
 import MusicApp from '../../img/musicapp.png';
 import 'swiper/css';
 import { themeContext } from "../../Context.js";
@@ -27,11 +27,12 @@ const Portfolio = () => {
                     <a href="https://dragos1331.github.io/zest/"><img src={Zest} alt="zest website" /></a>
                 </SwiperSlide>
                 <SwiperSlide className='slider-portofoliu'>
-                    <img src={HOC} alt="" />
+                    <a href="https://dragos1331.github.io/faceapp/"><img src={faceapp} alt="zest website" /></a>
                 </SwiperSlide>
-                <SwiperSlide className='slider-portofoliu'>
+                {/* <SwiperSlide className='slider-portofoliu'>
                     <img src={MusicApp} alt="" />
-                </SwiperSlide>
+                </SwiperSlide> */}
+
 
             </Swiper>
         </div >
