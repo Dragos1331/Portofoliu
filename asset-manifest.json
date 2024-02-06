@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portofoliu/static/css/main.1ac81aea.css",
-    "main.js": "/Portofoliu/static/js/main.1f139198.js",
+    "main.js": "/Portofoliu/static/js/main.b3ab0fcf.js",
     "static/media/faceify.png": "/Portofoliu/static/media/faceify.e1e14049f3f7fb7f8061.png",
     "static/media/faceapp.png": "/Portofoliu/static/media/faceapp.3428d9e4f44e547a3944.png",
     "static/media/zest.png": "/Portofoliu/static/media/zest.2ccfab267196ca52ccd3.png",
@@ -23,10 +23,10 @@
     "static/media/Languages.png": "/Portofoliu/static/media/Languages.c29ef1f335e5f30001d8.png",
     "index.html": "/Portofoliu/index.html",
     "main.1ac81aea.css.map": "/Portofoliu/static/css/main.1ac81aea.css.map",
-    "main.1f139198.js.map": "/Portofoliu/static/js/main.1f139198.js.map"
+    "main.b3ab0fcf.js.map": "/Portofoliu/static/js/main.b3ab0fcf.js.map"
   },
   "entrypoints": [
     "static/css/main.1ac81aea.css",
-    "static/js/main.1f139198.js"
+    "static/js/main.b3ab0fcf.js"
   ]
 }
